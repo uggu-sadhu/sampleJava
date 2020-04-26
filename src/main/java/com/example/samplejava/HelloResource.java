@@ -10,6 +10,6 @@ public class HelloResource {
 
     @GetMapping
     public String hello(){
-        return "Hello Everyone. Build done using Docker ...";
+        return "Hello Everyone. Build done using Docker ....";
     }
 }
