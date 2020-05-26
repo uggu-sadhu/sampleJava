@@ -4,7 +4,7 @@ target/
 !**/src/main/**
 !**/src/test/**
 
-### STS .       this is developer branch ....###
+### STS .       this is release branch ....###
 .apt_generated
 .classpath
 .factorypath
